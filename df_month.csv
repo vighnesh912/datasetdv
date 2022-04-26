@@ -1,0 +1,106 @@
+Month,PropertyCategory,Count
+1,Aircraft,1
+1,Road Vehicle,426
+1,Outdoor,424
+1,Other Residential,386
+1,Outdoor Structure,222
+1,Dwelling,4419
+1,Non Residential,1323
+1,Rail Vehicle,6
+1,Boat,5
+2,Outdoor,444
+2,Aircraft,1
+2,Boat,5
+2,Rail Vehicle,6
+2,Other Residential,391
+2,Non Residential,1323
+2,Dwelling,4461
+2,Road Vehicle,358
+2,Outdoor Structure,296
+3,Outdoor Structure,375
+3,Other Residential,413
+3,Outdoor,646
+3,Boat,6
+3,Rail Vehicle,8
+3,Road Vehicle,439
+3,Non Residential,1439
+3,Dwelling,4542
+4,Outdoor,871
+4,Other Residential,418
+4,Dwelling,4600
+4,Boat,5
+4,Non Residential,1587
+4,Road Vehicle,553
+4,Rail Vehicle,7
+4,Outdoor Structure,600
+5,Other Residential,440
+5,Non Residential,1738
+5,Outdoor Structure,377
+5,Dwelling,5032
+5,Outdoor,580
+5,Road Vehicle,596
+5,Rail Vehicle,4
+5,Boat,1
+6,Rail Vehicle,6
+6,Boat,6
+6,Dwelling,5484
+6,Aircraft,4
+6,Road Vehicle,677
+6,Other Residential,487
+6,Outdoor,774
+6,Outdoor Structure,436
+6,Non Residential,1949
+7,Rail Vehicle,14
+7,Aircraft,3
+7,Non Residential,2239
+7,Boat,2
+7,Outdoor Structure,368
+7,Dwelling,6936
+7,Outdoor,688
+7,Road Vehicle,684
+7,Other Residential,486
+8,Outdoor,679
+8,Aircraft,5
+8,Rail Vehicle,6
+8,Dwelling,5364
+8,Road Vehicle,634
+8,Boat,9
+8,Outdoor Structure,330
+8,Non Residential,1902
+8,Other Residential,451
+9,Other Residential,522
+9,Outdoor,653
+9,Road Vehicle,666
+9,Dwelling,5351
+9,Outdoor Structure,363
+9,Boat,5
+9,Rail Vehicle,19
+9,Aircraft,2
+9,Non Residential,2033
+10,Aircraft,3
+10,Rail Vehicle,9
+10,Boat,9
+10,Dwelling,5927
+10,Other Residential,626
+10,Outdoor,503
+10,Non Residential,2264
+10,Road Vehicle,699
+10,Outdoor Structure,344
+11,Aircraft,2
+11,Outdoor Structure,402
+11,Outdoor,645
+11,Road Vehicle,650
+11,Boat,6
+11,Dwelling,5459
+11,Rail Vehicle,8
+11,Other Residential,529
+11,Non Residential,2100
+12,Dwelling,5634
+12,Non Residential,1949
+12,Outdoor,399
+12,Rail Vehicle,9
+12,Road Vehicle,570
+12,Other Residential,540
+12,Outdoor Structure,272
+12,Aircraft,1
+12,Boat,7
