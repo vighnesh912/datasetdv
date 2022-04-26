@@ -1,0 +1,198 @@
+HourOfCall,PropertyCategory,Count
+18,Dwelling,3930
+17,Dwelling,3916
+19,Dwelling,3900
+20,Dwelling,3761
+16,Dwelling,3593
+21,Dwelling,3396
+13,Dwelling,3351
+15,Dwelling,3314
+14,Dwelling,3302
+12,Dwelling,3149
+11,Dwelling,3049
+22,Dwelling,3042
+10,Dwelling,2700
+23,Dwelling,2540
+9,Dwelling,2387
+0,Dwelling,2294
+8,Dwelling,1881
+1,Dwelling,1809
+10,Non Residential,1587
+2,Dwelling,1527
+7,Dwelling,1492
+11,Non Residential,1449
+9,Non Residential,1370
+3,Dwelling,1365
+12,Non Residential,1339
+13,Non Residential,1284
+14,Non Residential,1280
+4,Dwelling,1276
+5,Dwelling,1142
+8,Non Residential,1134
+15,Non Residential,1128
+6,Dwelling,1093
+16,Non Residential,1035
+17,Non Residential,1024
+18,Non Residential,951
+19,Non Residential,862
+20,Non Residential,846
+7,Non Residential,822
+22,Non Residential,768
+21,Non Residential,767
+23,Non Residential,695
+18,Outdoor,628
+19,Outdoor,594
+6,Non Residential,586
+0,Non Residential,568
+17,Outdoor,566
+16,Outdoor,547
+20,Outdoor,535
+1,Non Residential,509
+2,Non Residential,482
+5,Non Residential,461
+15,Outdoor,456
+21,Outdoor,455
+3,Non Residential,454
+4,Non Residential,445
+17,Road Vehicle,434
+15,Road Vehicle,432
+18,Road Vehicle,412
+16,Road Vehicle,396
+19,Road Vehicle,390
+14,Road Vehicle,380
+20,Road Vehicle,369
+14,Outdoor,368
+22,Outdoor,365
+21,Road Vehicle,355
+13,Road Vehicle,353
+18,Outdoor Structure,348
+13,Outdoor,344
+17,Other Residential,340
+11,Other Residential,333
+20,Outdoor Structure,329
+19,Other Residential,328
+18,Other Residential,327
+12,Outdoor,320
+14,Other Residential,316
+23,Road Vehicle,314
+12,Road Vehicle,314
+22,Road Vehicle,312
+12,Other Residential,309
+19,Outdoor Structure,309
+17,Outdoor Structure,308
+13,Other Residential,306
+23,Outdoor,296
+20,Other Residential,293
+11,Road Vehicle,289
+16,Outdoor Structure,286
+16,Other Residential,285
+21,Other Residential,284
+10,Other Residential,281
+0,Road Vehicle,271
+21,Outdoor Structure,263
+1,Road Vehicle,261
+11,Outdoor,256
+15,Outdoor Structure,253
+15,Other Residential,252
+9,Road Vehicle,251
+9,Other Residential,248
+14,Outdoor Structure,247
+10,Road Vehicle,247
+22,Other Residential,234
+8,Road Vehicle,221
+13,Outdoor Structure,220
+9,Outdoor,212
+22,Outdoor Structure,211
+23,Other Residential,206
+0,Outdoor,205
+10,Outdoor,203
+0,Other Residential,195
+8,Other Residential,193
+23,Outdoor Structure,188
+7,Road Vehicle,185
+12,Outdoor Structure,184
+7,Other Residential,182
+2,Road Vehicle,182
+0,Outdoor Structure,167
+4,Road Vehicle,159
+8,Outdoor,158
+1,Other Residential,158
+3,Road Vehicle,157
+1,Outdoor Structure,151
+1,Outdoor,150
+6,Road Vehicle,138
+2,Outdoor,138
+3,Other Residential,137
+2,Other Residential,136
+7,Outdoor,133
+5,Other Residential,131
+5,Road Vehicle,130
+10,Outdoor Structure,129
+11,Outdoor Structure,127
+3,Outdoor,123
+6,Other Residential,110
+9,Outdoor Structure,106
+4,Other Residential,105
+2,Outdoor Structure,101
+6,Outdoor,94
+4,Outdoor,93
+3,Outdoor Structure,92
+6,Outdoor Structure,91
+7,Outdoor Structure,77
+8,Outdoor Structure,69
+4,Outdoor Structure,67
+5,Outdoor,67
+5,Outdoor Structure,62
+22,Rail Vehicle,9
+19,Rail Vehicle,9
+14,Rail Vehicle,8
+16,Rail Vehicle,8
+21,Boat,7
+12,Rail Vehicle,7
+17,Rail Vehicle,7
+20,Boat,7
+21,Rail Vehicle,6
+11,Rail Vehicle,6
+12,Boat,5
+17,Boat,5
+18,Rail Vehicle,5
+20,Rail Vehicle,5
+18,Boat,5
+7,Rail Vehicle,5
+11,Boat,4
+10,Rail Vehicle,4
+10,Boat,4
+13,Aircraft,4
+23,Rail Vehicle,4
+22,Boat,4
+15,Boat,4
+11,Aircraft,3
+15,Aircraft,3
+15,Rail Vehicle,3
+19,Boat,3
+6,Rail Vehicle,3
+9,Rail Vehicle,3
+8,Rail Vehicle,3
+23,Boat,3
+14,Boat,3
+0,Rail Vehicle,2
+0,Boat,2
+8,Boat,2
+4,Rail Vehicle,2
+13,Boat,2
+6,Aircraft,2
+13,Rail Vehicle,2
+16,Boat,2
+10,Aircraft,2
+17,Aircraft,2
+4,Boat,1
+16,Aircraft,1
+1,Boat,1
+7,Boat,1
+18,Aircraft,1
+21,Aircraft,1
+1,Rail Vehicle,1
+2,Boat,1
+20,Aircraft,1
+5,Aircraft,1
+19,Aircraft,1
